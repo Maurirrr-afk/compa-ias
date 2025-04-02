@@ -1,0 +1,83 @@
+table, th, td{
+    border: 1px solid black none;
+    margin-right: auto;
+    margin-left: auto;
+}
+th{
+    background-color: rgba(56, 56, 56, 0.692);
+    color: white;
+    text-align: center;
+}
+td{
+    font-size: 25px;
+    padding: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: center;
+}
+.edv{
+    background-color: rgba(229, 117, 6, 0.973);
+    color: white;
+    text-align: center;
+    padding-right: 10px;
+
+}
+.comteco{
+    background-color: red;
+    color: white;
+}
+.acri{
+    background-color: green;
+    color: white;
+}
+img{
+    width: 70px;
+    padding: 0px;
+    background-color: white;
+}
+h1{
+    background-color: rgba(152, 235, 235, 0.408);
+    padding: 30px;
+    text-align: center;
+    border-radius: 30px;
+    text-decoration:  dotted;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(122, 122, 245);
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.min{
+    background-color: rgb(5, 5, 95);
+    color: white;
+}
+.vinto{
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+.ende{
+    background-color: rgb(165, 165, 4);
+    color: white;
+}
+.beni{
+    background-color: rgb(3, 183, 3);
+    color: white;
+}
+.pando{
+    background-color: red;
+    color: white;
+}
+.chuqui{
+    background-color: rgb(160, 27, 27);
+    color: white;
+}
